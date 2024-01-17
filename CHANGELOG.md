@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.3.1](https://github.com/web3-storage/dagula/compare/v7.3.0...v7.3.1) (2024-01-17)
+
+
+### Bug Fixes
+
+* remove only test ([#42](https://github.com/web3-storage/dagula/issues/42)) ([ca858fb](https://github.com/web3-storage/dagula/commit/ca858fb43fa55f7f29339c5e48f81dd8e9fbd51c))
+
 ## [7.3.0](https://github.com/web3-storage/dagula/compare/v7.2.2...v7.3.0) (2024-01-17)
 
 
